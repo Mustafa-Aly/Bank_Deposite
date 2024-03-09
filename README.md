@@ -49,4 +49,23 @@ First thing we do Exploration and Cleaning the Data and it's apper in the First 
 Then I done some Data Analysis and do a Dashboard using Tableau 
 (To review the Story and have a Dynamic view please visit that link https://public.tableau.com/app/profile/mustafa.aly/viz/BankDepositeAgreement/Story1)
 
+![Story 1](https://github.com/Mustafa-Aly/Bank_Deposite/assets/129996921/83e30479-eb9b-4851-9b96-4ed708d58f2a)
 
+![Story 2](https://github.com/Mustafa-Aly/Bank_Deposite/assets/129996921/c1edb065-bf83-4708-9acb-8b1d1c352b5c)
+
+After Analysis we go to Modeling 
+
+I try first Machine learning to find the Best Algorithm and then Try Random Grid Search Using Pipeline 
+
+I found the best Accuracy was 81% using Random Forrest and here the Pipeline and snapshot of the accuracy
+
+![Screenshot 2024-03-09 at 19-27-50 Google Colaboratory](https://github.com/Mustafa-Aly/Bank_Deposite/assets/129996921/2bc70932-b021-458e-a7f1-95fac8181107)
+
+![Screenshot 2024-03-09 at 19-28-57 Google Colaboratory](https://github.com/Mustafa-Aly/Bank_Deposite/assets/129996921/e08fad79-5609-4fcf-b2e2-97e7a88e69e5)
+
+Then I used Deep learning and used ANN to try a better accuracy I reach 84% used ANN and here the Pipeline and the classification report
+
+
+![Screenshot 2024-03-09 at 19-26-23 Google Colaboratory](https://github.com/Mustafa-Aly/Bank_Deposite/assets/129996921/4db81a36-4718-486d-aa61-ad8a76f60cbb)
+
+![Screenshot 2024-03-09 at 19-29-17 Google Colaboratory](https://github.com/Mustafa-Aly/Bank_Deposite/assets/129996921/de8cc7ff-3b28-475e-acfa-ca914be2c4f4)
